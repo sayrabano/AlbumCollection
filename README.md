@@ -1,4 +1,19 @@
-# Getting Started with Create React App
+
+
+
+All album list
+![getalbum](https://github.com/sayrabano/AlbumCollection/assets/87492998/200dffc2-8b7b-4244-b0a5-2bacf10e4485)
+
+
+//Add album
+![addalbum](https://github.com/sayrabano/AlbumCollection/assets/87492998/1f5c3c56-221e-45c9-bc30-123a5e6abde0)
+
+//update album
+[update](https://github.com/sayrabano/AlbumCollection/assets/87492998/e0ce4712-65a1-4c6f-a6f3-0e614494d831)
+
+
+# Getting Started with!
+ Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
