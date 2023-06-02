@@ -1,0 +1,16 @@
+/* style for add album template */
+
+form {
+    position: absolute;
+    left: 43%;
+    color: black;
+    top: 33%;
+  }
+  
+  #albumHeading {
+    position: absolute;
+    left: 34%;
+    color: rgb(35, 41, 92);
+    text-align: center;
+  }
+  

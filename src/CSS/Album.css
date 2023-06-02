@@ -1,0 +1,55 @@
+/* style for fetching album */
+
+.card{
+  display: block;
+  width: 35rem;
+  margin-top: 6px;
+  color: #111010;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  background-color: hsl(218, 41%, 15%);
+  background-image: radial-gradient(650px circle at 0% 0%,
+      hsl(218, 41%, 35%) 15%,
+      hsl(218, 25%, 57%) 35%,
+      hsl(59, 43%, 39%) 75%,
+      hsl(321, 65%, 28%) 80%,
+      transparent 100%),
+    radial-gradient(1250px circle at 100% 100%,
+      hsl(218, 24%, 55%) 15%,
+      hsl(218, 41%, 30%) 35%,
+      hsl(218, 34%, 81%) 75%,
+      hsl(218, 41%, 19%) 80%,
+      transparent 100%);
+
+}
+
+#card-add{
+  display: block;
+  width: 65rem;
+  margin-top: 70px;
+  color: #111010;
+  text-align: center;
+  justify-content: center;
+  align-items: center; 
+  margin-right:10px;
+}
+.navbar{
+  display: block;
+  
+  
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  background-color: hsl(218, 41%, 15%);
+  background-image: radial-gradient(650px circle at 0% 0%,
+      hsl(220, 30%, 72%) 15%,
+      hsl(218, 25%, 57%) 35%,
+     
+      transparent 100%),
+    radial-gradient(1250px circle at 100% 100%,
+      hsl(218, 24%, 55%) 15%,
+      hsl(220, 17%, 79%) 35%,
+      
+      transparent 100%);
+}
